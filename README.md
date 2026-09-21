@@ -6,3 +6,5 @@ Uma linha escrita diretamente no GITHUB
 Uma linha escrita localmente
 
 Uma atualização executada por outra pessoa
+
+-- Buscando conflito: alteração REMOTA
