@@ -8,3 +8,5 @@ Uma linha escrita localmente
 Uma atualização executada por outra pessoa
 
 -- Buscando um conflito: LOCAL
+
+-- Buscando conflito: alteração REMOTA
