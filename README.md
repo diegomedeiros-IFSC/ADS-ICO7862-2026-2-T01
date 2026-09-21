@@ -4,3 +4,5 @@ Este é o repositório de exemplo da turma 1 da disciplina de ICO no semestre 20
 Uma linha escrita diretamente no GITHUB
 
 Uma linha escrita localmente
+
+Uma atualização executada por outra pessoa
